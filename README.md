@@ -22,11 +22,11 @@ Me gusta crear soluciones tecnológicas simples, efectivas y escalables.
 
 ## 📊 Analíticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight" alt="estadísticas">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndresAndyRC&show_icons=true&theme=tokyonight" alt="estadísticas">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight" alt="lenguajes más usados">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresAndyRC&layout=compact&theme=tokyonight" alt="lenguajes más usados">
 </p>
 
 ---
