@@ -1,7 +1,7 @@
 # 👋 ¡Hola, soy Andrés!
 
-Soy **Programador Junior** con interés en **IA** y **desarrollo de software**, además de ser **co-fundador y CEO de una startup** 🚀.  
-Me gusta crear soluciones tecnológicas simples, efectivas y escalables.  
+Soy **Programador Junior** con interés en **IA** y **desarrollo de software**, además de ser **co-fundador de la startup AEGIS TNST S.A.S** 🚀.  
+Me gusta crear soluciones tecnológicas, efectivas y escalables ademas de la automatizacion y agentes de IA.  
 
 ---
 
