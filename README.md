@@ -11,9 +11,6 @@ Me gusta crear soluciones tecnológicas, efectivas y escalables ademas de la aut
 - 📚 Compartiendo proyectos y aprendizajes en este espacio  
 - 🌱 Actualmente mejorando mis habilidades en **backend y arquitectura de software**  
 
----
-
-## 🖼️ Banner
 <p align="center">
   <img src="https://placehold.co/900x200?text=Bienvenido+a+mi+GitHub&font=roboto" alt="banner">
 </p>
