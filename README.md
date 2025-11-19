@@ -38,7 +38,7 @@ Soy un desarrollador de software y co-fundador de **AEGIS TNST S.A.S**, con una 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,js,nodejs,react,postgres,docker,git,cloud,php,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,js,nodejs,react,postgres,docker,git,gcp,php,mysql,html,css" />
   </a>
 </p>
 
@@ -59,3 +59,19 @@ Soy un desarrollador de software y co-fundador de **AEGIS TNST S.A.S**, con una 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=AndresAndyRC&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
 </p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AndresAndyRC/borrador/main/assets/animated_stats.gif" />
+</div>
+
+---
+
+### 📌 Actualmente trabajando en:
+- Sistemas distribuidos y microservicios  
+- Desarrollo de agentes de IA personalizados  
+- Optimización de pipelines de datos  
+- Integración de IA con productos reales
+
+---
+
+📫 Puedes escribirme: **andresandyrc@gmail.com**, **andres.rodriguez@aegistnst.com**
