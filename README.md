@@ -36,7 +36,7 @@ Soy un desarrollador de software y co-fundador de **AEGIS TNST S.A.S**, con una 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,postgres,docker,git,gcp,php,mysql,html,css,postman" />
+    <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,postgres,docker,git,gcp,php,mysql,html,css,postman,Ai" />
   </a>
 </p>
 
