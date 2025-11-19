@@ -60,10 +60,6 @@ Soy un desarrollador de software y co-fundador de **AEGIS TNST S.A.S**, con una 
     <img src="https://github-profile-trophy.vercel.app/?username=AndresAndyRC&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AndresAndyRC/borrador/main/assets/animated_stats.gif" />
-</div>
-
 ---
 
 ### 📌 Actualmente trabajando en:
