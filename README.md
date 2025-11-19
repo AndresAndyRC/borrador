@@ -53,12 +53,11 @@ Soy un desarrollador de software y co-fundador de **AEGIS TNST S.A.S**, con una 
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresAndyRC&layout=compact&theme=tokyonight" alt="Lenguajes más usados"/>
   </a>
 </p>
+<br><hr style="border: 1px solid #ccc;"><br>
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AndresAndyRC&theme=tokyonight" alt="Streak Stats"/>
 </p>
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=AndresAndyRC&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
-</p>
+
 
 ---
 
