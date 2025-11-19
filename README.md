@@ -1,12 +1,10 @@
 <div id="header" align="center">
-  <img src="https://private-user-images.githubusercontent.com/177365957/495415969-1570b88c-9925-4bc6-9b50-c355da8cdc81.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTkxODYxOTYsIm5iZiI6MTc1OTE4NTg5NiwicGF0aCI6Ii8xNzczNjU5NTcvNDk1NDE1OTY5LTE1NzBiODhjLTk5MjUtNGJjNi05YjUwLWMzNTVkYThjZGM4MS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyOVQyMjQ0NTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00MDM0MTA1ZWI1ODFkYjI4YTg3YjlhNGJkM2JiYjg4ZTM3NTZlZTcxM2I5YTc0M2JhMGZjMzZjMjNkODU1YzJkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.OAbRAmzABiDKFiGcSJIRqggQikRW9h6EwjXqaNVFKPE" width="300"/>
+  <img src="https://user-images.githubusercontent.com/177365957/495415969-1570b88c-9925-4bc6-9b50-c355da8cdc81.gif
+" width="300"/>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/andresfrodriguezc21/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://tu-dominio.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-darkgreen?style=for-the-badge&logo=world&logoColor=white" alt="Portfolio Badge"/>
     </a>
   </div>
   
